@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Janus\\source\\repos\\WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A630B22C-4001-4697-8A14-66917E1C9DAC}|WebAPI\\WebAPI.csproj|c:\\users\\janus\\source\\repos\\webapi\\webapi\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A630B22C-4001-4697-8A14-66917E1C9DAC}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A630B22C-4001-4697-8A14-66917E1C9DAC}|WebAPI\\WebAPI.csproj|c:\\users\\janus\\source\\repos\\webapi\\webapi\\controllers\\accesocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A630B22C-4001-4697-8A14-66917E1C9DAC}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\accesocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A630B22C-4001-4697-8A14-66917E1C9DAC}|WebAPI\\WebAPI.csproj|c:\\users\\janus\\source\\repos\\webapi\\webapi\\models\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A630B22C-4001-4697-8A14-66917E1C9DAC}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A630B22C-4001-4697-8A14-66917E1C9DAC}|WebAPI\\WebAPI.csproj|c:\\users\\janus\\source\\repos\\webapi\\webapi\\models\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A630B22C-4001-4697-8A14-66917E1C9DAC}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A630B22C-4001-4697-8A14-66917E1C9DAC}|WebAPI\\WebAPI.csproj|c:\\users\\janus\\source\\repos\\webapi\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A630B22C-4001-4697-8A14-66917E1C9DAC}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A630B22C-4001-4697-8A14-66917E1C9DAC}|WebAPI\\WebAPI.csproj|c:\\users\\janus\\source\\repos\\webapi\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A630B22C-4001-4697-8A14-66917E1C9DAC}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A630B22C-4001-4697-8A14-66917E1C9DAC}|WebAPI\\WebAPI.csproj|c:\\users\\janus\\source\\repos\\webapi\\webapi\\custom\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A630B22C-4001-4697-8A14-66917E1C9DAC}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\custom\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\Janus\\source\\repos\\WebAPI\\WebAPI\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\Janus\\source\\repos\\WebAPI\\WebAPI\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\ProductoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T21:51:29.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccesoController.cs",
+              "DocumentMoniker": "C:\\Users\\Janus\\source\\repos\\WebAPI\\WebAPI\\Controllers\\AccesoController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\AccesoController.cs",
+              "ToolTip": "C:\\Users\\Janus\\source\\repos\\WebAPI\\WebAPI\\Controllers\\AccesoController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\AccesoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T21:25:07.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Janus\\source\\repos\\WebAPI\\WebAPI\\Models\\DTOs\\UsuarioDTO.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\DTOs\\UsuarioDTO.cs",
+              "ToolTip": "C:\\Users\\Janus\\source\\repos\\WebAPI\\WebAPI\\Models\\DTOs\\UsuarioDTO.cs",
+              "RelativeToolTip": "WebAPI\\Models\\DTOs\\UsuarioDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T21:23:02.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Janus\\source\\repos\\WebAPI\\WebAPI\\Models\\DTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\DTOs\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\Janus\\source\\repos\\WebAPI\\WebAPI\\Models\\DTOs\\LoginDTO.cs",
+              "RelativeToolTip": "WebAPI\\Models\\DTOs\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T21:21:58.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Janus\\source\\repos\\WebAPI\\WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Janus\\source\\repos\\WebAPI\\WebAPI\\appsettings.json",
+              "RelativeToolTip": "WebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-02T21:08:08.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Janus\\source\\repos\\WebAPI\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Janus\\source\\repos\\WebAPI\\WebAPI\\Program.cs",
+              "RelativeToolTip": "WebAPI\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAuwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T21:03:35.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Utilidades.cs",
+              "DocumentMoniker": "C:\\Users\\Janus\\source\\repos\\WebAPI\\WebAPI\\Custom\\Utilidades.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Custom\\Utilidades.cs",
+              "ToolTip": "C:\\Users\\Janus\\source\\repos\\WebAPI\\WebAPI\\Custom\\Utilidades.cs",
+              "RelativeToolTip": "WebAPI\\Custom\\Utilidades.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAvwDAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T20:27:52.072Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
